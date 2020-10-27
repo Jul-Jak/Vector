@@ -109,5 +109,4 @@ public:
 	{
 		return this->data[index];
 	}
-
 };
